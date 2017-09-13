@@ -1,9 +1,9 @@
-# istudy
+# onlain_menu
 This app include few functions:
-* dictionary
-* test for study words
+* menu
+* creating a food order
 
-You have a opportunity add new words in your dictionary and also remove.
+You can choose the dishes presented in the menu and remove them from the order. And also calculate the cost of the order.
 
 ## Available Scripts
 In the project directory, you can run:
