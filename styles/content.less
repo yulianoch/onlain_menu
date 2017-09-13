@@ -1,0 +1,33 @@
+body > section > div
+{
+    div.content 
+    {
+        @import (multiple) "./vars/colors.less";
+        margin-left: 50px;
+        ul
+        {
+			list-style-type: none;
+        }
+        
+		input
+        {
+			width: 100%;
+			height: 40px;
+			line-height: 40px;
+            margin-bottom: 20px;
+            padding: 0;
+			font-size: 20px; 
+        }
+		
+        button 
+		{ 
+			width: 100px;
+			height: 40px;
+			text-align: center;
+			border: none;
+			cursor: pointer;						
+			color: @clr-comp;
+			background-color: @clr-btn;
+		}
+	}
+}
