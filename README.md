@@ -3,7 +3,7 @@ This app include few functions:
 * menu
 * creating a food order
 
-You can choose the dishes presented in the menu and remove them from the order. And also calculate the cost of the order.
+You can choose the dishes presented in the menu and remove them from the order. And also calculate the cost of the order. The list of dishes is added to the firebase.
 
 ## Available Scripts
 In the project directory, you can run:
